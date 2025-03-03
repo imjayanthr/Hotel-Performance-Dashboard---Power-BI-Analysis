@@ -19,3 +19,4 @@ This project is a **Power BI dashboard** designed to analyze the financial and o
 - Identified trends in revenue and occupancy, aiding in **strategic decision-making**.
 - Helped **optimize pricing strategies** by tracking ADR and RevPAR.
 - Provided valuable insights into **customer satisfaction and cancellation trends**.
+![image](https://github.com/user-attachments/assets/5ec74342-f5a1-483d-a5a4-d89c71b332f5)
